@@ -1,17 +1,19 @@
 /*custom fonts*/
+
+/* problems here should be about URL handlers*/
+/*app.css add custom styles to the top-level component of the React application and its child components. */
 @font-face {
 	font-family: Centra;
-	src: url('./assets/font/CentraNo2-Bold.ttf'); /*fix this*/
+	src: url('./assets/font/CentraNo2-Bold.ttf'); 
 	font-weight: 700;
 }
 @font-face {
 	font-family: Centra;
-	src: url('./assets/font/CentraNo2-Medium.ttf'); /*fix this*/
-	font-weight: 500;
+	src: url('./assets/font/CentraNo2-Medium.ttf'); 
 }
 @font-face {
 	font-family: Centra;
-	src: url('./assets/font/CentraNo2-Book.ttf'); /*fix this*/
+	src: url('./assets/font/CentraNo2-Book.ttf');
 	font-weight: 400;
 }
 
